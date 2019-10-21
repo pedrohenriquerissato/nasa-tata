@@ -1,6 +1,6 @@
 # TATA - World Fire Alert System
 
-![Imgur](https://imgur.com/sPCEEih)
+![Imgur](https://i.imgur.com/sPCEEih.jpg)
 
 TATA means fire in Tupi-Guarani language which is spoken by Amazon Forest indigenous.  
 
